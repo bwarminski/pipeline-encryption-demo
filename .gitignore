@@ -1,2 +1,4 @@
 # Project exclude paths
 /venv/
+analytics/.chalice/deployments/
+analytics/.chalice/venv/
